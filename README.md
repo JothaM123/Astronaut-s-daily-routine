@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Astronaut's daily routine
+project by Samuel Jotham
